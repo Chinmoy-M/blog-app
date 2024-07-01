@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-labels */
 export const darkTheme = {
-  bg: "linear-gradient(90deg, rgba(60,21,0,1) 3%, rgba(1,1,23,1) 100%)",
+  bg: "#000",
   bgLi: "#202020",
   text: "white",
   textSof: "#aaaaaa",
